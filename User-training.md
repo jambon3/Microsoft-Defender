@@ -4,9 +4,10 @@ Microsoft Defender provides two useful features to improve our organization's cy
 -Go on defender
 -Show navigation
 
-training.png
 
-Training template:  
+<img src="Pictures/training.png" alt="training.png" width="400">
+
+### Training template:  
 
 <strong>${firstName} ${lastName},</strong>
 
