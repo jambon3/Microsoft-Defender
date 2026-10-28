@@ -67,7 +67,7 @@ Sincerely,<br>
 
 
 
-Training reminder notification  
+#### Training reminder notification  
 
 <strong>${firstName} ${lastName},</strong>
 
