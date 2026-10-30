@@ -52,13 +52,9 @@ Examples of security improvements that may increase the Secure Score:
 
 ## Review Frequency
 
-Recommended review schedule:
+Recommended review schedule:  
 
-```text
 Monthly
-```
-
-Review new recommendations and address high-priority items where appropriate.
 
 ---
 
