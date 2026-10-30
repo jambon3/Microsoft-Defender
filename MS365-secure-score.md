@@ -36,10 +36,6 @@ Microsoft Defender Portal
     └── Secure Score
 ```
 
-【2-814eaa】【3-83f116】
-
----
-
 ## Common Recommendations
 
 Examples of security improvements that may increase the Secure Score:
